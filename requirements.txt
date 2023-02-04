@@ -1,0 +1,11 @@
+mediapipe
+opencv-python
+scikit-learn
+pandas
+numpy
+seaborn
+gTTS
+speech_recognition
+pathlib
+pyttsx3
+PyAudio
